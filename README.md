@@ -1,9 +1,15 @@
 # sass-ch1
 
+# No.1
+
 > npm install
->
-> Dev Mode
+
+# No.2
+
+## Dev Mode
+
 > npm run compile:sass
->
-> Prod Mode
+
+## Prod Mode
+
 > npm run build:css
