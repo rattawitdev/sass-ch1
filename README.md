@@ -8,7 +8,7 @@
 
 ###### Dev Mode
 
-> npm run compile:sass
+> npm run start
 
 ###### Prod Mode
 
